@@ -3,8 +3,8 @@ input:
   format: raw
 profiles:
 - edition: Java
-  format: 9
+  format: 15
   name: Aether PBR-LabPbr
-  description: A short description of the RP content.
+  description: v1.2 Beta
   encoding:
     format: lab-1.3
