@@ -19,4 +19,5 @@ PBR Resource pack for [The Aether](https://modrinth.com/mod/aether) mod
 ![](screenshots/2024-02-14_23.19.05.png)
 ![](screenshots/2024-02-14_23.21.24.png)
 ![](screenshots/2024-02-14_23.56.30.png)
-![](screenshots/2024-02-14_23.57.34.png)
+![](screenshots/2024-03-14_23.25.06.png)
+![](screenshots/2024-03-14_23.29.07.png)
