@@ -1,1 +1,7 @@
-{}
+height:
+  scale: 0.7912
+  auto-level: false
+rough:
+  scale: 0.6161
+metal:
+  scale: 0.7364

@@ -4,7 +4,7 @@ input:
 profiles:
 - edition: Java
   format: 15
-  name: Aether PBR-LabPbr
-  description: v1.2 Beta
+  name: Aether PBR
+  description: v1.3
   encoding:
     format: lab-1.3
